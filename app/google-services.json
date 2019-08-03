@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "531225428093",
+    "firebase_url": "https://dynamiclink-27429.firebaseio.com",
+    "project_id": "dynamiclink-27429",
+    "storage_bucket": "dynamiclink-27429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531225428093:android:a6a5e282e2f533e8",
+        "android_client_info": {
+          "package_name": "com.example.sharingdynamiclink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531225428093-72d4o591paa8qkn2mfvndvvp0efe34m0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharingdynamiclink",
+            "certificate_hash": "c7947dda3b427c75d2c7245cce3ee54e5529d92d"
+          }
+        },
+        {
+          "client_id": "531225428093-agoc439ase4vcpie13vuhv3ouj1vjshp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA-LiOhQIkUDIvq5rIaed6N_KgjXSvzhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531225428093-agoc439ase4vcpie13vuhv3ouj1vjshp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531225428093:android:87fcb66cc6ca320a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531225428093-1nigs0deq9teeppv14me4cjmmt2vgp9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.auth",
+            "certificate_hash": "a4239e7ba0ebc1b731aaaec9bff205fc0c794f42"
+          }
+        },
+        {
+          "client_id": "531225428093-agoc439ase4vcpie13vuhv3ouj1vjshp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA-LiOhQIkUDIvq5rIaed6N_KgjXSvzhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531225428093-agoc439ase4vcpie13vuhv3ouj1vjshp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531225428093:android:2ac8c7eb10297239",
+        "android_client_info": {
+          "package_name": "com.simcoder.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531225428093-agoc439ase4vcpie13vuhv3ouj1vjshp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA-LiOhQIkUDIvq5rIaed6N_KgjXSvzhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531225428093:android:180722c4b6a30d89",
+        "android_client_info": {
+          "package_name": "com.zikrabyte.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531225428093-vk2bng5mv78htl105nifgd6g3oucp5l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zikrabyte.user",
+            "certificate_hash": "a4239e7ba0ebc1b731aaaec9bff205fc0c794f42"
+          }
+        },
+        {
+          "client_id": "531225428093-agoc439ase4vcpie13vuhv3ouj1vjshp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA-LiOhQIkUDIvq5rIaed6N_KgjXSvzhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531225428093-agoc439ase4vcpie13vuhv3ouj1vjshp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
